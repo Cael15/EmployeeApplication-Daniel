@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "w1EAQ3CWCLp+8YdDbg2Hfsd3KsB49ZxY7n3L3sekEDARza2Ot7FZ0ARlAUwD7OkE0NVkQoNh1TSTUleWeIBffA==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\EmployeeApplication-master\\EmployeeApp\\BLEmployee\\BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\djdel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
